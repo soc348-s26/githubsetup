@@ -1,4 +1,4 @@
-# githubsetup
+# Github setup
 Instructions
 
 
@@ -38,4 +38,5 @@ GITHUB_PAT=longstringofrandomlettersandnumbers
 
 Save your file and restart R from your session menu.
 
-with luck this will work until June 15.
+With luck this will work until June 15.
+
